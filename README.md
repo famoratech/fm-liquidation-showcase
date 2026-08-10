@@ -11,9 +11,9 @@ This is a production-ready, full-stack e-commerce application built specifically
 
 ## 📱 Previews & Media
 
-<img width="1382" height="1067" alt="Screenshot 2026-08-10 at 6 01 29 PM" src="https://github.com/user-attachments/assets/1b546371-3b13-4fbf-947c-3b2046869c18" />
-<img width="1279" height="1121" alt="Screenshot 2026-08-10 at 6 00 26 PM" src="https://github.com/user-attachments/assets/65699b4f-7925-4333-9be6-d61fdc6a5a55" />
 <img width="1380" height="1151" alt="Screenshot 2026-08-10 at 5 55 44 PM" src="https://github.com/user-attachments/assets/be45b340-2416-40a7-ae43-93984b4b7b8e" />
+<img width="1279" height="1121" alt="Screenshot 2026-08-10 at 6 00 26 PM" src="https://github.com/user-attachments/assets/65699b4f-7925-4333-9be6-d61fdc6a5a55" />
+<img width="1382" height="1067" alt="Screenshot 2026-08-10 at 6 01 29 PM" src="https://github.com/user-attachments/assets/1b546371-3b13-4fbf-947c-3b2046869c18" />
 
 
 ---
